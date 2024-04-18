@@ -1,5 +1,4 @@
-# Data-Analytics-Project
-
+# Data Analytics Project
 
 
 ## 📊 SQL Data Analysis
